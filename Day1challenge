@@ -1,0 +1,8 @@
+Day1-Challenge
+Prompt: Sign Up
+Create a sign up page, modal, form, or app screen related to signing up for something. 
+It could be for a volunteer event, contest registration, a giveaway, or anything you can image.
+
+
+This code creates a basic signup page with a modal form for contest registration. 
+When the "Register Now" button is clicked, the modal form appears. Users can fill in their details and submit the form, which will display an alert and close the modal.
